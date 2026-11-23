@@ -15,3 +15,5 @@ YYYY-MM-DD-place/
 New reel: copy `_template/` to `YYYY-MM-DD-place/` and fill it in.
 
 Folders from 7-23 Nov 2026 were added from Instagram: they have the final video and caption, but not the research, script, photos or voice.
+
+`video-tools/` holds reference video-editing skills (HyperFrames, motion-video-director). See `video-tools/README.md`.
